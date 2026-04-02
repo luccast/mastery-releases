@@ -52,4 +52,4 @@ Mastery checks for new releases automatically on startup and will prompt you to 
 
 ## License
 
-MIT
+© 2026 Luciano Castillo. All rights reserved.
