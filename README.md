@@ -29,6 +29,14 @@ Grab the latest release for your platform:
 - **Explore** — browse the public skill registry, search by name or category, and install new skills directly from the UI.
 - **Character Select** — choose your active AI agent (Claude Code, with more coming).
 
+## Skill Providers
+
+Mastery currently supports the following skill registries:
+
+- **[skills.sh](https://skills.sh)** — browse and install community skills directly from the Explore tab
+
+More providers coming soon.
+
 ## Requirements
 
 - Skills installed under `~/.claude/skills/` or `~/.agents/skills/`  
