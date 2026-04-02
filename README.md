@@ -5,7 +5,7 @@
 Mastery is a desktop app for browsing, enabling, and discovering AI agent skills. It gives you an interactive skill tree to visualize and manage skills for [Claude Code](https://claude.ai/code) and other AI agents.
 
 ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-Proprietary-red)
 
 ## Download
 
