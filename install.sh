@@ -3,9 +3,8 @@ set -eu
 
 REPO_OWNER="${REPO_OWNER:-luccast}"
 RELEASE_REPO="${RELEASE_REPO:-mastery-releases}"
-SOURCE_REPO="${SOURCE_REPO:-mastery}"
 MANIFEST_URL="${MANIFEST_URL:-https://github.com/${REPO_OWNER}/${RELEASE_REPO}/releases/latest/download/latest-linux.yml}"
-ICON_URL="${ICON_URL:-https://raw.githubusercontent.com/${REPO_OWNER}/${SOURCE_REPO}/master/build/icons/png/512x512.png}"
+ICON_URL="${ICON_URL:-https://raw.githubusercontent.com/${REPO_OWNER}/${RELEASE_REPO}/main/mastery.png}"
 
 if ! command -v curl >/dev/null 2>&1; then
   echo "curl is required to install Mastery." >&2
