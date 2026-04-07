@@ -31,6 +31,8 @@ curl -fsSL https://raw.githubusercontent.com/luccast/mastery-releases/refs/heads
 
 This installs the latest x64 AppImage to `~/.local/bin/Mastery.AppImage` and adds a desktop entry.
 
+![Mastery Skill Tree](images/mastery-ss-skill-tree.png)
+
 ## What it does
 
 - **Skill Tree** — visualizes your installed skills as a radial 2D graph. Each provider has its own branch; skills fan out from their hub. Navigate with WASD, zoom with scroll, click any node to inspect it.
