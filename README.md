@@ -2,6 +2,8 @@
 
 > Think Final Fantasy Ascension Grid meets your `~/.claude/skills` directory.
 
+![Mastery Skill Tree](images/mastery-ss-skill-tree.png)
+
 Mastery is a desktop app for browsing, enabling, and discovering AI agent skills. It gives you an interactive skill tree to visualize and manage skills for [Claude Code](https://claude.ai/code) and other AI agents.
 
 ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-blue)
@@ -30,8 +32,6 @@ curl -fsSL https://raw.githubusercontent.com/luccast/mastery-releases/refs/heads
 ```
 
 This installs the latest x64 AppImage to `~/.local/bin/Mastery.AppImage` and adds a desktop entry.
-
-![Mastery Skill Tree](images/mastery-ss-skill-tree.png)
 
 ## What it does
 
