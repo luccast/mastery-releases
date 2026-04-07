@@ -26,7 +26,7 @@ Grab the latest release for your platform:
 Install the latest Linux release with:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/luccast/mastery-releases/main/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/luccast/mastery-releases/refs/heads/main/install.sh | sh
 ```
 
 This installs the latest x64 AppImage to `~/.local/bin/Mastery.AppImage` and adds a desktop entry.
