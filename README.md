@@ -21,6 +21,16 @@ Grab the latest release for your platform:
 
 > macOS users: if you see a security warning, right-click the `.dmg` and choose **Open**.
 
+### Linux one-line install
+
+Install the latest Linux release with:
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/luccast/mastery-releases/main/install.sh | sh
+```
+
+This installs the latest x64 AppImage to `~/.local/bin/Mastery.AppImage` and adds a desktop entry.
+
 ## What it does
 
 - **Skill Tree** — visualizes your installed skills as a radial 2D graph. Each provider has its own branch; skills fan out from their hub. Navigate with WASD, zoom with scroll, click any node to inspect it.
